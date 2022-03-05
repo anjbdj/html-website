@@ -1,0 +1,23 @@
+.header-wrapper .header {
+    height: 50px;
+    background-color: #00adbc;
+}
+
+.header-wrapper .header a{
+    color: #fff;
+}
+.header-wrapper .header a:hover{
+    color: #fff;
+}
+
+body{
+    min-height: 600px;
+}
+
+
+.footer{
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #7665a0;
+}
