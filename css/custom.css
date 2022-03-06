@@ -20,6 +20,11 @@ p{
     margin-block-end: 0px;
 }
 
+img{
+    max-width: 100%;
+}
+
+
 .footer{
     color: #fff;
     padding-top: 20px;
