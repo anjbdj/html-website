@@ -46,7 +46,15 @@
                 margin-bottom: 15px;
                 font-weight: 600;
             }
-            
+            .stats-image-wrap img{
+                max-width: 300px;
+            }
+            @media only screen and (max-width: 767px) {
+                .stats-image-wrap img{
+                    max-width: 100%;
+                }   
+            }
+
         </style>
 	</head>
 <body>
@@ -125,6 +133,17 @@
                     </div>
                 </div>
             </div>
+            <div class="col-sm-3">
+                <div class="learn-subject-box" style="background-color:#957DAD;">
+                    <a href="./blog/" >
+                        <img src="images/blog.png" />
+                    </a>
+                    <div class="box-content">    
+                        <p>Blog</p>
+                    </div>
+                </div>
+            </div>
+            
             <!-- <div class="col-sm-3">
                 <div class="learn-subject-box">
                     <a href="#" >
@@ -138,8 +157,8 @@
 
     <div class="container" style="margin: 20px auto;">
         <div class="row" style="padding: 20px;">
-            <div class="col-sm-6 text-center" style="padding:30px; background-color: #b5a6a9;">
-                <img src="images/stats.png" style="max-width: 300px;"/>
+            <div class="col-sm-6 text-center stats-image-wrap" style="padding:30px; background-color: #b5a6a9;">
+                <img src="images/stats.png"/>
             </div>
             <div class="col-sm-6" style="color:#fff; background-color: rgb(0, 173, 188);padding: 25px;">
                 <h3>Analysis</h3>
@@ -153,8 +172,6 @@
             </div>
         </div>
     </div>
-
-
 
     <div class="responsive-content-desktop-footer footer">
         <div class="container">
