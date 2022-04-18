@@ -45,6 +45,11 @@ p.heading{
     
 }
 
+ul, ol{
+    padding-inline-start: 20px;
+}
+
+
 ul.nostyle, ol.nostyle{
     margin-block-start: 0em;
     margin-block-end: 0em;
