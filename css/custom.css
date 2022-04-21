@@ -59,7 +59,7 @@ ul.nostyle, ol.nostyle{
 }
 ul.nostyle li, ol.nostyle li{
     list-style: none;
-    text-transform: capitalize;
+    
 }
 ul.nostyle li img, 
 ol.nostyle li img {
