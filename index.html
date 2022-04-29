@@ -25,6 +25,17 @@
         <meta name="msapplication-square150x150logo" content="images/favicon/mstile-150x150.png" />
         <meta name="msapplication-wide310x150logo" content="images/favicon/mstile-310x150.png" />
         <meta name="msapplication-square310x310logo" content="images/favicon/mstile-310x310.png" />
+
+        <link rel="manifest" href="manifest.json">
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="IIT">
+        <meta name="apple-mobile-web-app-title" content="IIT">
+        <meta name="msapplication-starturl" content="https://crackiit.in/">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
         <title>Free IIT JEE Coaching</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-GFHMMZX4ZC"></script>
@@ -240,5 +251,13 @@
 	<script src="js/jquery.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 	<script src="js/custom.js"></script>
+    <script>
+
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js');
+            });
+        }
+    </script>
 </body>
 </html>
