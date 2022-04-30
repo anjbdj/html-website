@@ -8,22 +8,17 @@
   "short_name": "IIT",
   "icons": [
       {
-          "src": "/images/favicon-196x196.png",
+          "src": "/images/favicon/favicon-196x196.png",
           "sizes": "196x196",
           "type": "image/png"
       },
       {
-          "src": "/images/favicon-196x196.png",
-          "sizes": "196x196",
-          "type": "image/png"
-      },
-      {
-          "src": "/images/favicon-114x114.png",
+          "src": "/images/favicon/favicon-114x114.png",
           "sizes": "114x114",
           "type": "image/png"
       },
       {
-          "src": "/images/favicon-128.png",
+          "src": "/images/favicon/favicon-128.png",
           "sizes": "128x128",
           "type": "image/png"
       }
