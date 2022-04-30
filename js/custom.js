@@ -4,3 +4,13 @@ window.addEventListener('load', () => {
     navigator.serviceWorker.register('/sw.js');
     });
 }
+
+
+
+jQuery(function($){
+
+    $(".show_answer").on("click", function(){
+        $( this ).siblings( ".answer" ).show( 500 );
+    });
+
+});
