@@ -1,7 +1,31 @@
 {
-    "name": "CrackIIT",
-    "short_name": "IIT",
-    "lang": "en-US",
-    "start_url": "https://crackiit.in/",
-    "display": "standalone"
-  }
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "CrackIIT",
+  "short_name": "IIT",
+  "icons": [
+      {
+          "src": "/images/favicon-196x196.png",
+          "sizes": "196x196",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/favicon-196x196.png",
+          "sizes": "196x196",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/favicon-114x114.png",
+          "sizes": "114x114",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/favicon-128.png",
+          "sizes": "128x128",
+          "type": "image/png"
+      }
+  ]
+}
