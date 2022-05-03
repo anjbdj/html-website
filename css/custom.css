@@ -83,3 +83,7 @@ ol.nostyle li img {
 .question_answer_wrap span.show_answer {
     
 }
+
+.navbar-collapse.collapse.show{
+    z-index: 99999;
+}
