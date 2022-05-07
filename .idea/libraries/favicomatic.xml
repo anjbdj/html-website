@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="favicomatic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/images/favicomatic.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
