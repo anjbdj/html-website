@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Free IIT JEE Coacking"/>
+        <meta name="keywords" content="best free online iit jee coaching to crack IIT JEE, Best Study material for IIT free, ">
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/favicon/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/favicon/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/favicon/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="60x60" href="images/favicon/apple-touch-icon-60x60.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/favicon/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/favicon/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/favicon/apple-touch-icon-152x152.png" />
+        <link rel="icon" type="image/png" href="images/favicon/favicon-196x196.png" sizes="196x196" />
+        <link rel="icon" type="image/png" href="images/favicon/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/png" href="images/favicon/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="images/favicon/favicon-16x16.png" sizes="16x16" />
+        <link rel="icon" type="image/png" href="images/favicon/favicon-128.png" sizes="128x128" />
+        <meta name="application-name" content="&nbsp;"/>
+        <meta name="msapplication-TileColor" content="#FFFFFF" />
+        <meta name="msapplication-TileImage" content="images/favicon/mstile-144x144.png" />
+        <meta name="msapplication-square70x70logo" content="images/favicon/mstile-70x70.png" />
+        <meta name="msapplication-square150x150logo" content="images/favicon/mstile-150x150.png" />
+        <meta name="msapplication-wide310x150logo" content="images/favicon/mstile-310x150.png" />
+        <meta name="msapplication-square310x310logo" content="images/favicon/mstile-310x310.png" />
+
+        <link rel="manifest" href="manifest.json">
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="IIT">
+        <meta name="apple-mobile-web-app-title" content="IIT">
+        <meta name="msapplication-starturl" content="https://crackiit.in/">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+        <title>Free IIT JEE Coaching</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GFHMMZX4ZC"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-GFHMMZX4ZC');
+        </script>
+        <script type="application/ld+json">
+            {
+                "@context":"http://schema.org",
+                "@id":"https://www.coursera.org/#organization",
+                "@type":"Organization",
+                "name":"Crackiit.in",
+                "url":"https://www.coursera.org/",
+                "logo":"https://crackiit.in/images/favicon/favicon-196x196.png",
+                "sameAs":[
+                "https://www.youtube.com/channel/UCkZDcttxYY8ZnpUnKcHluCA"
+                ]
+            }
+          </script>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css" >
+        <link rel="stylesheet" href="css/custom.css" >
+        <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff" href="https://www.microsoft.com/mwf/_h/v3.54/mwf.app/fonts/mwfmdl2-v3.54.woff2">
+        <style>
+            .homepage-feature {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            .homepage-feature .col-sm-3{
+                border-radius: 12px;
+                padding-left: 0px;
+                padding-right: 0px;
+            }
+            .homepage-feature .content-wrapper{
+                padding: 30px;
+                color: #ffffff;
+                margin-left: 10px;
+                margin-right: 10px;
+                min-height: 200px;
+            }
+            .homepage-feature .img-wrapper{
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top:10px;
+            }
+            .homepage-feature .content-wrapper .header-text{
+                font-size: 18px;
+                margin-bottom: 5px;
+                font-weight: 600;
+            }
+            .homepage-feature .content-wrapper .sentence{
+                font-size: 14px;
+            }
+            .navbar-toggler{
+                padding: 0.15rem 0.25rem;
+            }
+            .navbar-light .navbar-toggler{
+                border-color: #ffffff;
+                border-radius: 0px;
+            }
+            .navbar-collapse.show{
+                background: #59cad3;
+                padding: 10px 20px;
+                margin-top: 2px;
+            }
+            /* .navbar-collapse{
+                background: #59cad3;
+                padding: 10px 20px;
+                margin-top: 2px;
+            } */
+            .navbar-light .navbar-nav .nav-link{
+                color:#ffffff
+            }
+            .navbar-light .navbar-toggler-icon{
+                background-image: url("./images/home/menu_hamburger_32.png")
+            }
+            .learn-subject-box{
+                padding: 30px;
+                margin: 5px;
+                border-radius: 8px;
+                text-align: center;
+            }
+            .learn-subject-box .box-content{
+                color: #fff;
+                margin-top: 20px;;
+            }
+            .learn-subject-box .box-content p{
+                font-size: 24px;
+                margin-bottom: 15px;
+                font-weight: 600;
+            }
+            .stats-image-wrap img{
+                max-width: 300px;
+            }
+            
+            @media only screen and (max-width: 767px) {
+                .stats-image-wrap img{
+                    max-width: 100%;
+                }  
+                .container-fluid.header .col-sm-12{
+                    padding-right: 0px;
+                    padding-left: 0px;
+                }    
+                .container-fluid.header .navbar.navbar-expand-lg{
+                    padding-right: 0px;
+                    padding-left: 0px;
+                }
+                .header a.navbar-brand{
+                    margin-left: 20px;
+                }
+                .navbar-toggler{
+                    margin-right: 20px;
+                }
+            }
+        </style>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8066827270889589"
+        crossorigin="anonymous"></script>
+        <!-- Hotjar Tracking Code for https://crackiit.in/ -->
+        <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:3047638,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+	</head>
+<body>
+    <div class="continer-fluid text-center" style="background-color: #ffdfa1; color: #000">
+        <div class="row">
+            <div class="col-sm-12"><p style="font-size: 15px; margin: 5px auto; font-weight: 600;">We don't have any APP. It's All Here, All Free</p></div>
+        </div>
+    </div>
+    <div class="header-wrapper">
+        <div class="container-fluid header">
+            <div class="row">
+                <div class="col-sm-12">
+                    
+
+
+                    <nav class="navbar navbar-expand-lg navbar-light ">
+                        <a class="navbar-brand" href=".">Home</a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                        </button>
+                      
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                          <ul class="navbar-nav mr-auto">
+                            <!-- <li class="nav-item active">
+                              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                            </li> -->
+                            <!-- <li class="nav-item">
+                              <a class="nav-link" href="/learn/">Learn</a>
+                            </li> -->
+                            <li class="nav-item">
+                                <a class="nav-link" href="/physics/">Physics</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="/chemistry/">Chemistry</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="/maths/">Maths</a>
+                              </li>
+							  <li class="nav-item">
+                                <a class="nav-link" href="/maths/">Resources</a>
+                              </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/blog/">Blog</a>
+                              </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/contact/">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://hindi.crackiit.in/">Hindi</a>
+                            </li>
+                            <!-- <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Dropdown
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                              </div>
+                            </li>
+                            <li class="nav-item">
+                              <a class="nav-link disabled" href="#">Disabled</a>
+                            </li> -->
+                          </ul>
+                          <!-- <form class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                          </form> -->
+                        </div>
+                      </nav>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <img src="/images/home/home-hero-banner.jpg" alt="CrackIIT.in - Home Page Hero Banner Image">
+    </div>
+    
+    <div class="container-fluid" style="background-color: #ffdfa1; margin-bottom: 15px; padding: 15px;">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <p style="font-size: 25px; font-weight: 600;">Every Student deserves a fair chance to crack IIT.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid homepage-feature">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="img-wrapper">
+                    <img src="/images/home/commute.jpeg" alt="Crack IIT without travelling to Kota or Delhi">
+                </div>
+                <div class="content-wrapper" style="background-color: rgb(89, 202, 211);">
+                    <p class="header-text">Learn at Home</p>
+                    <p class="sentence">Learn from the comfort of your Home</p>
+                    <p class="sentence">Learn at your own pace</p>
+                    <p class="sentence">It's not like you missed the class.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="img-wrapper">
+                    <img src="/images/home/no-money.jpg" alt="Learn the concepts for IIT JEE for Free.">
+                </div>
+                <div class="content-wrapper" style="background-color:rgba(118, 101, 160);">
+                    <p class="header-text">It's Free</p>
+                    <p class="sentence">You learn everything for free.</p>
+                    <p class="sentence">Nothing to Loose</p>
+                    <p class="sentence">No Credit/Debit card is required.</p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="img-wrapper">
+                    <img src="/images/home/in-depth.jpg" alt="Physic, Chemistry and Math In-depth tutorials">
+                </div>
+                <div class="content-wrapper" style="background-color: rgba(0, 148, 202, 0.92);">
+                    <p class="header-text">In-depth Learning</p>
+                    <p class="sentence">Learning that really benefits</p>
+                    <p class="sentence">Not just an overview of concept.</p>
+                    <p class="sentence">Comprehensive understanding of concepts to succeed in IIT</p>
+                </div>
+            </div>
+            
+            
+            <div class="col-sm-3">
+                <div class="img-wrapper">
+                    <img src="/images/home/play-game.jpg"  alt="Recreation to refresh the Mind of an IIT enterance aspirant">
+                </div>
+                <div class="content-wrapper" style="background-color: rgba(185, 191, 21, 0.92);">
+                    <p class="header-text">Recreation</p>
+                    <p class="sentence">Share Ideas for Recreation</p>
+                    <p class="sentence">We share ideas about how you can try small games and activities in around 15 minutes</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+    <div class="container-fluid " style="padding: 30px; background-color: #ee2737; color: #fff;margin-bottom: 40px; margin-top: 40px;">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h1>Select the Subject</h1> 
+                <p>Grab the concepts first. Invest time in grasping the concept.</p>
+                <p>Once you get a hold of the concept try to attempt the basic questions then start moving towards the tougher ones.</p>              
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-fluid" style="margin-bottom: 30px;">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="learn-subject-box" style="background-color: #FDB692;">
+                    <a href="/physics" >
+                        <img src="learn/images/physics.png" />
+                    </a>
+                    <div class="box-content">    
+                        <p>Physics</p>
+                        <a href="/physics/" class="btn btn-primary">Get Started</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="learn-subject-box" style="background-color: #A9BD95;">
+                    <a href="/chemistry" >
+                        <img src="learn/images/chemistry.png" />
+                    </a>
+                    <div class="box-content">    
+                        <p>Chemistry</p>
+                        <a href="/chemistry/" class="btn btn-primary">Get Started</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="learn-subject-box" style="background-color:#E7CB71;">
+                    <a href="/maths" >
+                        <img src="learn/images/math.png" />
+                    </a>
+                    <div class="box-content">    
+                        <p>Maths</p>
+                        <a href="/maths/" class="btn btn-primary">Get Started</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="learn-subject-box" style="background-color:#957DAD;">
+                    <a href="/blog/" >
+                        <img src="learn/images/blog.png" />
+                    </a>
+                    <div class="box-content">    
+                        <p>Blog</p>
+                        <a href="/blog/" class="btn btn-primary">Get Started</a>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+
+
+    <div class="container-fluid" style="background-color: rgb(255, 164, 0); padding: 30px;">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <a href="./learn" class="btn btn-primary" style="background-color: #ee1c25; border-color: #ee1c25; font-size: 20px;;">Start Learning</a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="responsive-content-desktop-footer footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <p> “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” – Richard Feynman</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JQuery and Bootstrap JS -->
+	<script src="js/jquery.slim.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/custom.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+        // Use the window load event to keep the page load performant
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js');
+           });
+        }
+    </script>
+</body>
+</html>
